@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Taoflix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Browse movies, TV shows, and short films from a vast database of media and view their individual IMDB ratings and movie overview.
 
 ## Screenshots
 
